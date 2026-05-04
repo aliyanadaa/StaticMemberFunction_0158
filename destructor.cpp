@@ -9,4 +9,5 @@ class angka
     
     public:
         angka(int);
+        ~angka();
 }
