@@ -13,3 +13,4 @@ class buku {
         return this->judul;
     }
 };
+
