@@ -10,4 +10,6 @@ class angka
     public:
         angka(int);
         ~angka();
-}
+        void cetakData();
+        void isiData();
+};
