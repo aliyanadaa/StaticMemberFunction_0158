@@ -7,7 +7,10 @@ class mahasiswa{
         int nim;
         string nama;
     public:
-        mahasiswa(){
+         
+};
+
+mahasiswa(){
             nim = 0;
             nama = "";
         }
@@ -22,4 +25,3 @@ class mahasiswa{
             nim = iNim;
             nama = iNama;
         }
-};
