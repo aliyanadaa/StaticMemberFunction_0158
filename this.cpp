@@ -14,5 +14,5 @@ class buku{
  {
     buku bukunya;
     cout<<bukunya.setget ("Matematika");
-    
+    return 0;
  }
